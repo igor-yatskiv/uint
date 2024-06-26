@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/igor-yatskiv/uint/issues"
   },
-  "homepage": "https://github.com/igor-yatskiv/uint#readme"
+  "homepage": "https://github.com/igor-yatskiv/uint#readme",
+  "type": "module"
 }

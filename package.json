@@ -1,6 +1,6 @@
 {
   "name": "uint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns unique integer per one session.",
   "main": "uint.js",
   "scripts": {
